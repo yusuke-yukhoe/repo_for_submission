@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+    font-size: 20px;
+}
+
+a {
+    color: red;
+    font-style: italic;
+}
+
+th {
+    background-color: #026441;
+    color: white;
+}
+
+tr {
+    padding: 10px;
+}
