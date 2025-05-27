@@ -1,11 +1,21 @@
 h1 {
     color: blue;
-    font-size: 20px;
+    font-size: 50px;
+    text-align: center;
 }
 
 a {
     color: red;
     font-style: italic;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+table {
+    width: 100%;
 }
 
 th {
@@ -15,4 +25,8 @@ th {
 
 tr {
     padding: 10px;
+}
+
+img {
+    width: 100%;
 }
